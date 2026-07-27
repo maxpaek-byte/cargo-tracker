@@ -1,5 +1,5 @@
 window.CARGO_DATA = {
- "generatedAt": "2026-07-22 18:09",
+ "generatedAt": "2026-07-27 14:26",
  "shipments": [
   {
    "title": "WK0706NEA",
@@ -1390,6 +1390,14 @@ window.CARGO_DATA = {
     "542846210",
     "542846223",
     "542846237"
+   ]
+  },
+  {
+   "title": "WK27",
+   "scheduleName": "WK27",
+   "arrivalDate": "",
+   "packages": [
+    "323211780"
    ]
   }
  ]
