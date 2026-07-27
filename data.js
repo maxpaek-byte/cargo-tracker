@@ -1,5 +1,5 @@
 window.CARGO_DATA = {
- "generatedAt": "2026-07-27 14:26",
+ "generatedAt": "2026-07-27 14:51",
  "shipments": [
   {
    "title": "WK0706NEA",
@@ -1395,9 +1395,9 @@ window.CARGO_DATA = {
   {
    "title": "WK27",
    "scheduleName": "WK27",
-   "arrivalDate": "",
+   "arrivalDate": "9/29(화)",
    "packages": [
-    "323211780"
+    "323211781"
    ]
   }
  ]
